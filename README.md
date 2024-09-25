@@ -6,3 +6,8 @@ As part of my cybersecurity learning journey, I built a SIEM solution in Microso
 
 <h2>Environments Used </h2>
 <b>Microsoft Sentinel</b>
+
+<h2> The SIEM</h2>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/480420cc-2600-4dc4-9ab0-d22fbe584ab5">
+<br />
