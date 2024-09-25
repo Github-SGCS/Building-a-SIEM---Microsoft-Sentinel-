@@ -9,5 +9,5 @@ As part of my cybersecurity learning journey, I built a SIEM solution in Microso
 
 <h2> The SIEM</h2>
 <p align="center">
-<img src="">
+<img src="[Building a SEIM.pptx](https://github.com/user-attachments/files/17135695/Building.a.SEIM.pptx)">
 <br />
